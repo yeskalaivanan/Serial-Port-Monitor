@@ -1,0 +1,11 @@
+E:\kalaivanan\VS_Projects\serialmonitor\serialmonitor\bin\Debug\serialmonitor.exe.config
+E:\kalaivanan\VS_Projects\serialmonitor\serialmonitor\bin\Debug\serialmonitor.exe
+E:\kalaivanan\VS_Projects\serialmonitor\serialmonitor\bin\Debug\serialmonitor.pdb
+E:\kalaivanan\VS_Projects\serialmonitor\serialmonitor\bin\Debug\serialmonitor.xml
+E:\kalaivanan\VS_Projects\serialmonitor\serialmonitor\obj\Debug\serialmonitor.vbprojResolveAssemblyReference.cache
+E:\kalaivanan\VS_Projects\serialmonitor\serialmonitor\obj\Debug\serialmonitor.Form1.resources
+E:\kalaivanan\VS_Projects\serialmonitor\serialmonitor\obj\Debug\serialmonitor.Resources.resources
+E:\kalaivanan\VS_Projects\serialmonitor\serialmonitor\obj\Debug\serialmonitor.vbproj.GenerateResource.Cache
+E:\kalaivanan\VS_Projects\serialmonitor\serialmonitor\obj\Debug\serialmonitor.exe
+E:\kalaivanan\VS_Projects\serialmonitor\serialmonitor\obj\Debug\serialmonitor.xml
+E:\kalaivanan\VS_Projects\serialmonitor\serialmonitor\obj\Debug\serialmonitor.pdb
